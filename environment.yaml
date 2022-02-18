@@ -3,10 +3,10 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
+  - jupyter
   - matplotlib-base
   - numpy
-  - scikit-image
   - opencv
   - pillow
+  - scikit-image
   - scipy
-  - jupyter
