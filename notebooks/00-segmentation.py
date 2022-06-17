@@ -54,6 +54,7 @@ bad_pellets = [
     "cl1_p1_psul_deixa1_g0007",
     "cl1_p2_joaq_dunai_e0009",
     "cl1_p2_joaq_dunaiii_f0010",
+    "cl1_p2_joaq_dunaiii_f0011",
     "cl1_p3_joaq_dunaiii_b0010",
     "cl1_p4_brava_deixa3_c0002",
     "cl1_p4_brava_deixa5_e0010",
@@ -62,7 +63,7 @@ bad_pellets = [
 for fname in fnames:
     pellet = Path(fname).stem
     if pellet in bad_pellets:
-        print(f"Skipping pellet {pellet}.")
+        print(f"Skipping pellet {pellet}.\n")
         continue
 
     img = open_image(fname)
@@ -75,4 +76,4 @@ for fname in fnames:
     print(f"Processing image {fname}.")
     savename = f"01-masks/{pellet}"
     np.save(savename, maskr)
-    print(f"Saved mask into {savename}.")
+    print(f"Saved mask into {savename}.\n")
