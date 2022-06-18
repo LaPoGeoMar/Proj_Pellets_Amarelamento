@@ -53,11 +53,11 @@ fnames = glob("00-images/*.jpg")
 bad_pellets = [
     "cl1_p1_psul_deixa1_g0007",
     "cl1_p2_joaq_dunai_e0009",
-    "cl1_p2_joaq_dunaiii_f0010",
-    "cl1_p2_joaq_dunaiii_f0011",
     "cl1_p3_joaq_dunaiii_b0010",
-    "cl1_p4_brava_deixa3_c0002",
-    "cl1_p4_brava_deixa5_e0010",
+    "cl1_p12_moca2_deixa4_b0011",
+    "cl1_p12_moca2_deixa4_c0007",
+    "cl1_p12_moca2_deixa4_b0011",
+    "cl1_p12_moca2_deixa4_c0007"
 ]
 
 for fname in fnames:
