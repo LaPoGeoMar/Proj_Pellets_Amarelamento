@@ -1,0 +1,246 @@
+Imagem,Tamanho (mm),Coloração,Característica,Grau de Erosão,Índice de Erosão,Grau de Amarelamento,Índice de Amarelamento
+cl1_p1_psul_deixa1_g0005,"4,4",TRANSPARENTE,DISCO,erosão moderada,2,alto,3
+cl1_p1_psul_deixa1_g0006,"4,6",TRANSPARENTE,ESFERA,erosão baixa,1,moderado,2
+cl1_p1_psul_deixa1_g0007,"3,2",TRANSPARENTE,DISCO,erosão moderada,2,muito alto,4
+cl1_p1_psul_deixa4_h0007,5,TRANSPARENTE,RETANGULO,nulo,0,moderado,2
+cl1_p1_psul_deixa5_h0011,"3,59",BRANCO,ESFERA,erosão alta,3,alto,3
+cl1_p1_psul_limsup4_e0003,4,BRANCO,DISCO,nulo,0,baixo,1
+cl1_p2_joaq_dunai_c0001,"4,43",TRANSPARENTE,ESFERA,erosão alta,3,baixo,1
+cl1_p2_joaq_dunai_c0002,"4,27",TRANSPARENTE,ESFERA,erosão moderada,2,moderado,2
+cl1_p2_joaq_dunai_c0003,"4,18",BRANCO,ESFERA,erosão moderada,2,nulo,0
+cl1_p2_joaq_dunai_c0004,"3,6",TRANSPARENTE,ESFERA,erosão alta,3,alto,3
+cl1_p2_joaq_dunai_c0005,"4,39",CINZA,DISCO,erosão moderada,2,na,na
+cl1_p2_joaq_dunai_c0006,"3,51",CINZA,DISCO,erosão baixa,1,na,na
+cl1_p2_joaq_dunai_c0007,"3,69",TRANSPARENTE,ESFERA,erosão moderada,2,alto,3
+cl1_p2_joaq_dunai_c0008,"3,61",TRANSPARENTE,ESFERA,erosão moderada,2,baixo,1
+cl1_p2_joaq_dunai_c0009,"2,9",BRANCO,ESFERA,erosão moderada,2,moderado,2
+cl1_p2_joaq_dunai_c0010,"3,87",TRANSPARENTE,ESFERA,erosão moderada,2,nulo,0
+cl1_p2_joaq_dunai_c0011,"4,39",TRANSPARENTE,ESFERA,erosão alta,3,baixo,1
+cl1_p2_joaq_dunai_c0012,"5,14",TRANSPARENTE,ESFERA,erosão moderada,2,moderado,2
+cl1_p2_joaq_dunai_d0001,"4,32",TRANSPARENTE,ESFERA,erosão alta,3,moderado,2
+cl1_p2_joaq_dunai_d0002,"4,18",TRANSPARENTE,ESFERA,erosão moderada,2,moderado,2
+cl1_p2_joaq_dunai_d0003,"3,75",TRANSPARENTE,ESFERA,erosão alta,3,baixo,1
+cl1_p2_joaq_dunai_d0004,"4,3",TRANSPARENTE,ESFERA,erosão alta,3,baixo,1
+cl1_p2_joaq_dunai_d0005,"3,18",TRANSPARENTE,CILINDRO,erosão moderada,2,nulo,0
+cl1_p2_joaq_dunai_d0006,"4,39",TRANSPARENTE,ESFERA,erosão moderada,2,baixo,1
+cl1_p2_joaq_dunai_d0007,"3,41",CINZA,ESFERA,erosão baixa,1,na,na
+cl1_p2_joaq_dunai_d0008,"4,5",VERDE,CILINDRO,erosão moderada,2,na,na
+cl1_p2_joaq_dunai_d0012,"3,79",BRANCO,ESFERA,erosão alta,3,moderado,2
+cl1_p2_joaq_dunai_e0004,"2,83",BRANCO,ESFERA,erosão alta,3,alto,3
+cl1_p2_joaq_dunai_e0005,"3,1",AMARELO,OVOIDE,erosão alta,3,muito alto,4
+cl1_p2_joaq_dunai_e0007,"3,66",AMARELO,ESFERA,erosão alta,3,alto,3
+cl1_p2_joaq_dunaiii_f0010,"3,92",PRETO,CILINDRO,nulo,0,na,na
+cl1_p2_joaq_dunaiii_f0011,"5,07",VERMELHO,CILINDRO,erosão alta,3,na,na
+cl1_p2_joaq_dunaiii_f0012,"3,75",BRANCO,DISCO,erosão baixa,1,baixo,1
+cl1_p2_joaq_dunaiii_g0001,"3,48",BRANCO,DISCO,nulo,0,baixo,1
+cl1_p2_joaq_dunaiii_g0002,"4,62",TRANSPARENTE,DISCO,erosão baixa,1,alto,3
+cl1_p2_joaq_dunaiii_g0003,"4,92",TRANSPARENTE,DISCO,erosão moderada,2,moderado,2
+cl1_p2_joaq_dunaiii_g0004,"3,84",TRANSPARENTE,DISCO,erosão baixa,1,muito alto,4
+cl1_p2_joaq_dunaiii_g0005,"4,57",TRANSPARENTE,ESFERA,erosão moderada,2,moderado,2
+cl1_p2_joaq_dunaiii_g0006,"3,61",TRANSPARENTE,ESFERA,erosão baixa,1,nulo,0
+cl1_p2_joaq_dunaiii_g0007,"4,11",TRANSPARENTE,ESFERA,erosão baixa,1,moderado,2
+cl1_p2_joaq_dunaiii_g0008,"4,2",BRANCO,DISCO,erosão baixa,1,moderado,2
+cl1_p2_joaq_dunaiii_g0009,"3,5",BRANCO,ESFERA,erosão baixa,1,baixo,1
+cl1_p2_joaq_dunaiii_g0010,"4,34",BRANCO,ESFERA,erosão alta,3,moderado,2
+cl1_p2_joaq_dunaiii_g0011,"4,32",TRANSPARENTE,ESFERA,erosão baixa,1,baixo,1
+cl1_p2_joaq_dunaiii_g0012,"3,8",BRANCO,ESFERA,erosão alta,3,alto,3
+cl1_p2_joaq_dunaiii_h0001,"4,261",TRANSPARENTE,ESFERA,erosão moderada,2,alto,3
+cl1_p2_joaq_dunaiii_h0002,"4,194",TRANSPARENTE,DISCO,erosão baixa,1,baixo,1
+cl1_p2_joaq_dunaiii_h0003,"4,827",TRANSPARENTE,DISCO,erosão alta,3,moderado,2
+cl1_p2_joaq_dunaiii_h0004,"4,095",BRANCO,DISCO,erosão moderada,2,baixo,1
+cl1_p2_joaq_dunaiii_h0005,"3,938",BRANCO,ESFERA,erosão moderada,2,alto,3
+cl1_p2_joaq_dunaiii_h0006,"3,831",TRANSPARENTE,DISCO,nulo,0,nulo,0
+cl1_p2_joaq_dunaiii_h0007,"3,995",TRANSPARENTE,ESFERA,erosão baixa,1,baixo,1
+cl1_p2_joaq_dunaiii_h0008,"3,631",BRANCO,ESFERA,erosão moderada,2,alto,3
+cl1_p2_joaq_dunaiii_h0009,"3,508",BRANCO,ESFERA,erosão moderada,2,alto,3
+cl1_p2_joaq_dunaiii_h0010,"3,191",BRANCO,QUADRADO,erosão moderada,2,muito alto,4
+cl1_p2_joaq_dunaiii_h0011,"3,697",TRANSPARENTE,ESFERA,nulo,0,baixo,1
+cl1_p2_joaq_dunaiii_h0012,"4,101",TRANSPARENTE,DISCO,erosão baixa,1,baixo,1
+cl1_p2_joaq_limsup1_b0003,"3,14",BRANCO,ESFERA,erosão baixa,1,baixo,1
+cl1_p2_joaq_limsup2_b0004,"4,06",TRANSPARENTE,ESFERA,erosão moderada,2,alto,3
+cl1_p2_joaq_limsup3_b0009,"3,45",TRANSPARENTE,ESFERA,erosão alta,3,moderado,2
+cl1_p2_psul_deixa6_a0005,"5,01",BRANCO,ESFERA,erosão moderada,2,moderado,2
+cl1_p2_psul_deixa6_a0007,"5,2",TRANSPARENTE,ESFERA,erosão moderada,2,muito alto,4
+cl1_p3_brava_limsup4_c0001,"3,671",TRANSPARENTE,ESFERA,erosão moderada,2,baixo,1
+cl1_p3_brava_limsup4_c0002,"3,39",TRANSPARENTE,CILINDRO,erosão baixa,1,baixo,1
+cl1_p3_brava_limsup6_d0009,"3,88",TRANSPARENTE,ESFERA,erosão moderada,2,moderado,2
+cl1_p3_brava_limsup6_d0010,"4,454",TRANSPARENTE,ESFERA,erosão baixa,1,baixo,1
+cl1_p3_brava_limsup6_d0011,"4,658",TRANSPARENTE,DISCO,erosão alta,3,nulo,0
+cl1_p3_brava_limsup6_d0012,"3,598",BRANCO,ESFERA,erosão baixa,1,nulo,0
+cl1_p3_brava_limsup6_e0001,"3,04",TRANSPARENTE,CILINDRO,erosão baixa,1,nulo,0
+cl1_p3_joaq_dunaiii_a0001,"3,75",TRANSPARENTE,ESFERA,erosão moderada,2,moderado,2
+cl1_p3_joaq_dunaiii_a0002,"4,211",TRANSPARENTE,CILINDRO,erosão baixa,1,muito alto,4
+cl1_p3_joaq_dunaiii_a0003,"3,433",TRANSPARENTE,ESFERA,erosão alta,3,muito alto,4
+cl1_p3_joaq_dunaiii_a0004,"4,85",BRANCO,OVOIDE,erosão alta,3,alto,3
+cl1_p3_joaq_dunaiii_a0005,"4,645",BRANCO,ESFERA,erosão alta,3,alto,3
+cl1_p3_joaq_dunaiii_a0006,"3,382",BRANCO,ESFERA,erosão alta,3,alto,3
+cl1_p3_joaq_dunaiii_a0007,"3,639",BRANCO,ESFERA,erosão alta,3,alto,3
+cl1_p3_joaq_dunaiii_a0008,"2,987",TRANSPARENTE,CILINDRO,erosão moderada,2,baixo,1
+cl1_p3_joaq_dunaiii_a0009,"3,531",BRANCO,CILINDRO,nulo,0,alto,3
+cl1_p3_joaq_dunaiii_b0009,"2,686",TRANSPARENTE,CILINDRO,erosão moderada,2,baixo,1
+cl1_p3_joaq_dunaiii_b0010,"4,327",PRETO,CILINDRO,erosão baixa,1,na,na
+cl1_p3_brava_deixa0_f0002,"3,53",TRANSPARENTE,CILINDRO,erosão baixa,1,nulo,0
+cl1_p3_brava_deixa0_f0003,"3,389",TRANSPARENTE,CILINDRO,erosão baixa,1,nulo,0
+cl1_p3_brava_deixa0_f0004,"3,55",TRANSPARENTE,OVOIDE,erosão baixa,1,baixo,1
+cl1_p3_brava_deixa0_f0005,"3,4",TRANSPARENTE,CILINDRO,erosão baixa,1,nulo,0
+cl1_p3_brava_deixa2_f0011,"3,23",TRANSPARENTE,CILINDRO,erosão baixa,1,nulo,0
+cl1_p3_brava_deixa2_f0012,"3,482",TRANSPARENTE,ESFERA,erosão moderada,2,nulo,0
+cl1_p3_brava_deixa2_g0001,"3,487",TRANSPARENTE,ESFERA,erosão alta,3,baixo,1
+cl1_p3_brava_deixa2_g0002,"3,435",TRANSPARENTE,DISCO,erosão baixa,1,nulo,0
+cl1_p3_brava_deixa2_g0003,"3,539",TRANSPARENTE,ESFERA,erosão baixa,1,nulo,0
+cl1_p3_brava_deixa2_g0004,"3,331",TRANSPARENTE,DISCO,erosão moderada,2,baixo,1
+cl1_p3_brava_deixa2_g0005,"2,54",TRANSPARENTE,ESFERA,erosão moderada,2,baixo,1
+cl1_p3_brava_deixa3_h0001,"3,517",TRANSPARENTE,ESFERA,erosão baixa,1,baixo,1
+cl1_p3_brava_deixa3_h0002,"3,217",TRANSPARENTE,CILINDRO,erosão baixa,1,nulo,0
+cl1_p3_brava_deixa3_h0003,"3,608",TRANSPARENTE,ESFERA,erosão moderada,2,nulo,0
+cl1_p3_brava_deixa3_h0004,"3,299",TRANSPARENTE,CILINDRO,nulo,0,nulo,0
+cl1_p3_brava_deixa3_h0005,"3,204",TRANSPARENTE,CILINDRO,erosão baixa,1,baixo,1
+cl1_p3_brava_deixa3_h0006,"4,497",BRANCO,ESFERA,erosão moderada,2,moderado,2
+cl1_p3_brava_deixa3_h0007,"3,461",TRANSPARENTE,ESFERA,erosão baixa,1,baixo,1
+cl1_p3_brava_deixa3_h0008,"3,484",TRANSPARENTE,ESFERA,erosão baixa,1,nulo,0
+cl1_p3_brava_deixa3_h0009,"3,132",BRANCO,ESFERA,erosão moderada,2,baixo,1
+cl1_p3_brava_deixa3_h0010,"3,199",TRANSPARENTE,ESFERA,erosão baixa,1,baixo,1
+cl1_p3_brava_deixa3_h0011,"3,555",TRANSPARENTE,ESFERA,erosão baixa,1,nulo,0
+cl1_p3_brava_deixa3_h0012,"3,117",TRANSPARENTE,CILINDRO,erosão moderada,2,baixo,1
+cl1_p3_brava_limsup6_e0002,"4,449",TRANSPARENTE,ESFERA,,,baixo,1
+cl1_p4_brava_deixa3_a0001,"3,365",TRANSPARENTE,ESFERA,erosão baixa,1,baixo,1
+cl1_p4_brava_deixa3_a0002,"3,93",TRANSPARENTE,ESFERA,erosão alta,3,baixo,1
+cl1_p4_brava_deixa3_a0003,"3,435",TRANSPARENTE,ESFERA,erosão baixa,1,baixo,1
+cl1_p4_brava_deixa3_a0004,"3,764",TRANSPARENTE,ESFERA,erosão baixa,1,nulo,0
+cl1_p4_brava_deixa3_a0005,"3,494",TRANSPARENTE,ESFERA,nulo,0,nulo,0
+cl1_p4_brava_deixa3_a0006,"4,065",TRANSPARENTE,CILINDRO,erosão baixa,1,baixo,1
+cl1_p4_brava_deixa3_a0007,"3,448",BRANCO,ESFERA,erosão moderada,2,baixo,1
+cl1_p4_brava_deixa3_a0008,"3,858",TRANSPARENTE,QUADRADO,erosão alta,3,alto,3
+cl1_p4_brava_deixa3_a0009,"3,946",TRANSPARENTE,ESFERA,erosão moderada,2,moderado,2
+cl1_p4_brava_deixa3_a0010,"3,695",BRANCO,ESFERA,erosão alta,3,alto,3
+cl1_p4_brava_deixa3_a0011,"3,455",TRANSPARENTE,ESFERA,erosão moderada,2,baixo,1
+cl1_p4_brava_deixa3_a0012,"3,448",TRANSPARENTE,ESFERA,nulo,0,baixo,1
+cl1_p4_brava_deixa3_b0001,"3,27",TRANSPARENTE,ESFERA,erosão alta,3,moderado,2
+cl1_p4_brava_deixa3_b0002,"4,477",TRANSPARENTE,ESFERA,erosão baixa,1,moderado,2
+cl1_p4_brava_deixa3_b0003,"3,167",TRANSPARENTE,CILINDRO,erosão alta,2,alto,3
+cl1_p4_brava_deixa3_b0005,"5,72",AZUL,CILINDRO,erosão moderada,2,na,na
+cl1_p4_brava_deixa3_b0006,"2,587",VERDE,CILINDRO,erosão moderada,2,na,na
+cl1_p4_brava_deixa3_b0007,"3,237",TRANSPARENTE,CILINDRO,nulo,0,nulo,0
+cl1_p4_brava_deixa3_b0012,"4,701",BRANCO,QUADRADO,erosão baixa,1,moderado,2
+cl1_p4_brava_deixa3_c0002,"3,109",PRETO,CILINDRO,nulo,0,na,na
+cl1_p4_brava_deixa3_c0004,"3,236",TRANSPARENTE,RETANGULO,erosão baixa,1,baixo,1
+cl1_p4_brava_deixa4_d0002,"3,279",BRANCO,ESFERA,erosão alta,3,alto,3
+cl1_p4_brava_deixa4_d0003,"3,555",TRANSPARENTE,CILINDRO,erosão alta,3,alto,3
+cl1_p4_brava_deixa4_d0004,"3,913",TRANSPARENTE,ESFERA,nulo,0,baixo,1
+cl1_p4_brava_deixa4_d0005,"4,528",TRANSPARENTE,CILINDRO,erosão baixa,1,baixo,1
+cl1_p4_brava_deixa4_d0006,"3,759",TRANSPARENTE,ESFERA,erosão baixa,1,nulo,0
+cl1_p4_brava_deixa4_d0007,"4,31",TRANSPARENTE,DISCO,nulo,0,nulo,0
+cl1_p4_brava_deixa4_d0008,"3,294",TRANSPARENTE,CILINDRO,erosão baixa,1,nulo,0
+cl1_p4_brava_deixa4_d0009,"3,034",TRANSPARENTE,CILINDRO,erosão moderada,2,alto,3
+cl1_p4_brava_deixa4_d0010,"3,539",TRANSPARENTE,ESFERA,erosão moderada,2,nulo,0
+cl1_p4_brava_deixa4_d0011,"3,532",BRANCO,CILINDRO,erosão baixa,1,nulo,0
+cl1_p4_brava_deixa4_d0012,"3,992",TRANSPARENTE,ESFERA,erosão baixa,1,baixo,1
+cl1_p4_brava_deixa4_e0001,"2,794",CINZA,RETANGULO,erosão baixa,1,na,na
+cl1_p4_brava_deixa5_e0010,"3,346",VERMELHO,CILINDRO,erosão baixa,1,na,na
+cl1_p4_brava_deixa5_e0011,"4,003",TRANSPARENTE,CILINDRO,erosão baixa,1,nulo,0
+cl1_p4_brava_deixa5_e0012,"3,481",TRANSPARENTE,CILINDRO,nulo,0,nulo,0
+cl1_p4_brava_deixa5_f0002,"3,716",TRANSPARENTE,ESFERA,nulo,0,nulo,0
+cl1_p4_brava_deixa5_f0003,"4,086",TRANSPARENTE,ESFERA,erosão moderada,2,baixo,1
+cl1_p4_brava_deixa5_f0004,"3,074",TRANSPARENTE,CILINDRO,nulo,0,nulo,0
+cl1_p4_brava_deixa5_f0005,"3,369",TRANSPARENTE,CILINDRO,erosão baixa,1,baixo,1
+cl1_p4_brava_deixa5_f0006,"3,352",TRANSPARENTE,ESFERA,erosão baixa,1,nulo,0
+cl1_p4_brava_deixa5_f0007,"3,525",TRANSPARENTE,CILINDRO,erosão moderada,2,baixo,1
+cl1_p4_brava_deixa5_f0008,"3,771",TRANSPARENTE,CILINDRO,erosão baixa,1,baixo,1
+cl1_p4_brava_deixa5_f0009,"3,619",TRANSPARENTE,CILINDRO,erosão baixa,0,nulo,0
+cl1_p4_brava_deixa5_f0010,"3,868",TRANSPARENTE,ESFERA,erosão moderada,2,muito alto,4
+cl1_p4_brava_deixa5_f0011,"3,542",TRANSPARENTE,CILINDRO,erosão baixa,0,nulo,0
+cl1_p4_brava_deixa5_f0012,"3,831",TRANSPARENTE,DISCO,erosão baixa,1,muito alto,4
+cl1_p4_brava_deixa6_g0006,"4,301",TRANSPARENTE,DISCO,nulo,0,nulo,0
+cl1_p4_brava_deixa6_g0007,"3,358",BRANCO,CILINDRO,nulo,0,nulo,0
+cl1_p4_brava_deixa6_g0008,"3,921",TRANSPARENTE,DISCO,nulo,0,baixo,1
+cl1_p4_brava_deixa6_g0009,"3,591",BRANCO,ESFERA,erosão baixa,1,baixo,1
+cl1_p4_brava_deixa6_g0010,"3,152",BRANCO,ESFERA,nulo,0,nulo,0
+cl1_p4_brava_deixa6_g0011,"2,196",TRANSPARENTE,QUADRADO,erosão moderada,2,alto,3
+cl1_p4_brava_deixa6_g0012,"3,655",TRANSPARENTE,ESFERA,erosão moderada,2,moderado,2
+cl1_p4_brava_deixa6_h0001,"4,23",BRANCO,DISCO,erosão moderada,2,alto,3
+cl1_p4_brava_deixa6_h0002,"3,65",TRANSPARENTE,CILINDRO,nulo,0,baixo,1
+cl1_p4_moca2_deixa1_h0010,"4,826",TRANSPARENTE,DISCO,erosão baixa,1,nulo,0
+cl1_p4_moca2_deixa1_h0011,"4,679",TRANSPARENTE,CILINDRO,erosão baixa,1,nulo,0
+cl1_p4_moca2_deixa1_h0012,"3,338",TRANSPARENTE,DISCO,nulo,0,nulo,0
+cl1_p5_moca2_deixa1_a0002,"3,883",TRANSPARENTE,DISCO,erosão baixa,1,nulo,0
+cl1_p5_moca2_deixa2_b0005,"4,145",TRANSPARENTE,CILINDRO,erosão alta,3,alto,3
+cl1_p5_moca2_deixa2_b0006,"3,783",BRANCO,CILINDRO,erosão moderada,2,nulo,0
+cl1_p5_moca2_deixa2_c0001,"3,845",TRANSPARENTE,DISCO,erosão moderada,2,nulo,0
+cl1_p5_moca2_deixa2_c0002,"2,686",BRANCO,ESFERA,nulo,0,nulo,0
+cl1_p5_moca2_deixa3_d0004,"4,119",BRANCO,DISCO,erosão alta,3,baixo,1
+cl1_p5_moca2_deixa3_d0005,"4,742",TRANSPARENTE,DISCO,nulo,0,nulo,0
+cl1_p5_moca2_deixa3_d0006,"4,203",AZUL,ESFERA,erosão moderada,2,na,na
+cl1_p6_moca2_deixa3_a0001,"3,837",TRANSPARENTE,DISCO,nulo,0,nulo,0
+cl1_p6_moca2_deixa3_a0002,"3,499",BRANCO,CILINDRO,erosão moderada,2,moderado,2
+cl1_p6_moca2_deixa3_a0003,"3,655",TRANSPARENTE,DISCO,erosão moderada,2,nulo,0
+cl1_p6_moca2_deixa3_a0004,"4,324",TRANSPARENTE,CILINDRO,erosão baixa,1,alto,3
+cl1_p6_moca2_deixa3_a0005,"4,319",TRANSPARENTE,CILINDRO,erosão moderada,2,moderado,2
+cl1_p6_moca2_deixa3_a0006,"4,546",TRANSPARENTE,CILINDRO,erosão moderada,2,baixo,1
+cl1_p8_moca2_deixa5_a0003,"4,757",BRANCO,na,erosão moderada,2,moderado,2
+cl1_p8_moca2_deixa5_a0004,"4,468",BRANCO,na,erosão baixa,1,baixo,1
+cl1_p8_moca2_deixa5_b0001,"3,082",TRANSPARENTE,ESFERA,erosão baixa,1,baixo,1
+cl1_p8_moca2_deixa5_b0003,"3,932",BRANCO,ESFERA,erosão baixa,1,baixo,1
+cl1_p8_moca2_deixa5_b0004,"3,23",BRANCO,ESFERA,erosão moderada,3,moderado,2
+cl1_p9_moca2_deixa5_a0001,"3,038",TRANSPARENTE,CILINDRO,erosão baixa,1,nulo,0
+cl1_p9_moca2_deixa5_a0003,"4,144",CINZA,DISCO,erosão moderada,2,na,na
+cl1_p9_moca2_deixa5_a0004,"3,276",CINZA,DISCO,erosão moderada,2,na,na
+cl1_p9_moca2_deixa5_b0001,"3,763",TRANSPARENTE,ESFERA,erosão alta,3,baixo,1
+cl1_p11_moca2_deixa5_a0001,"4,021",TRANSPARENTE,ESFERA,erosão alta,3,baixo,1
+cl1_p12_lagoinha_deixa1_g0005,"5,581",BRANCO,LEVEMENTE ERODIDO,erosão baixa,1,nulo,0
+cl1_p12_lagoinha_deixa1_g0006,"4,244",BRANCO,LEVEMENTE ERODIDO,erosão baixa,1,baixo,1
+cl1_p12_lagoinha_deixa1_g0007,"3,946",BRANCO,NÃO ERODIDO,erosão baixa,1,baixo,1
+cl1_p12_lagoinha_deixa1_g0008,"3,948",BRANCO,MODERADAMENTE ERODIDO,erosão alta,3,moderado,2
+cl1_p12_lagoinha_deixa2_h0002,"3,86",AZUL,NA,erosão baixa,1,na,na
+cl1_p12_lagoinha_deixa2_h0003,"3,019",AZUL,MUITO ERODIDO,erosão alta,3,na,na
+cl1_p12_lagoinha_deixa2_h0004,"6,043",BRANCO,LEVEMENTE ERODIDO,erosão baixa,1,moderado,2
+cl1_p12_lagoinha_deixa2_h0005,"3,768",BRANCO,LEVEMENTE ERODIDO,erosão baixa,1,baixo,1
+cl1_p12_lagoinha_deixa2_h0006,"4,766",BRANCO,LEVEMENTE ERODIDO,erosão alta,3,moderado,2
+cl1_p12_lagoinha_deixa2_h0007,"4,71",TRANSPARENTE,LEVEMENTE ERODIDO,erosão baixa,1,alto,3
+cl1_p12_lagoinha_deixa2_h0008,"3,694",BRANCO,BAIXO,nulo,0,nulo,0
+cl1_p12_lagoinha_deixa2_h0009,"3,7",AMARELO,MUITO ERODIDO,erosão alta,3,alto,3
+cl1_p12_lagoinha_deixa2_h0010,"4,693",TRANSPARENTE,MUITO ERODIDO,erosão moderada,2,nulo,0
+cl1_p12_lagoinha_deixa3_h0012,"4,967",TRANSPARENTE,MUITO ERODIDO,erosão moderada,2,baixo,1
+cl1_p12_moca1_limsup5_f0011,"4,337",TRANSPARENTE,NÃO ERODIDO,erosão baixa,1,baixo,1
+cl1_p12_moca2_deixa4_a0004,"6,258",AMARELO,DISCO,erosão moderada,2,muito alto,4
+cl1_p12_moca2_deixa4_a0012,"4,338",TRANSPARENTE,DISCO,erosão baixa,1,nulo,0
+cl1_p12_moca2_deixa4_b0004,"4,184",TRANSPARENTE,ESFERA,erosão baixa,1,baixo,1
+cl1_p12_moca2_deixa4_b0006,"4,717",TRANSPARENTE,ESFERA,erosão moderada,2,nulo,0
+cl1_p12_moca2_deixa4_b0007,"3,894",TRANSPARENTE,ESFERA,erosão moderada,2,baixo,1
+cl1_p12_moca2_deixa4_b0008,"4,391",TRANSPARENTE,ESFERA,erosão moderada,2,nulo,0
+cl1_p12_moca2_deixa4_b0009,"4,157",TRANSPARENTE,DISCO,erosão baixa,1,nulo,0
+cl1_p12_moca2_deixa4_b0010,"3,209",AMARELO,ESFERA,erosão moderada,2,alto,3
+cl1_p12_moca2_deixa4_b0011,"4,083",AMARELO,ESFERA,erosão moderada,2,alto,3
+cl1_p12_moca2_deixa4_b0012,"3,876",BRANCO,ESFERA,erosão moderada,2,baixo,1
+cl1_p12_moca2_deixa4_c0001,"3,413",TRANSPARENTE,CILINDRO,erosão baixa,1,baixo,1
+cl1_p12_moca2_deixa4_c0002,"4,836",TRANSPARENTE,DISCO,erosão moderada,2,nulo,0
+cl1_p12_moca2_deixa4_c0003,"3,923",TRANSPARENTE,CILINDRO,erosão moderada,2,nulo,0
+cl1_p12_moca2_deixa4_c0005,"3,203",TRANSPARENTE,CILINDRO,nulo,0,nulo,0
+cl1_p12_moca2_deixa4_c0006,"3,57",TRANSPARENTE,CILINDRO,erosão moderada,2,nulo,0
+cl1_p12_moca2_deixa4_c0007,"4,211",TRANSPARENTE,ESFERA,erosão alta,3,muito alto,4
+cl1_p12_moca2_deixa4_c0008,"4,086",TRANSPARENTE,CILINDRO,erosão moderada,2,alto,3
+cl1_p12_moca2_deixa4_c0009,"5,551",BRANCO,DISCO,erosão alta,3,baixo,1
+cl1_p12_moca2_deixa4_c0012,"4,613",MARROM,CILINDRO,erosão alta,3,muito alto,4
+cl1_p12_moca2_deixa4_d0001,"4,097",TRANSPARENTE,CILINDRO,erosão alta,3,nulo,0
+cl1_p12_moca2_deixa4_d0002,"3,694",AMARELO,DISCO,erosão moderada,2,alto,3
+cl1_p12_moca2_deixa4_d0003,"3,831",AMARELO,CILINDRO,erosão alta,3,alto,3
+cl1_p12_moca2_deixa4_d0008,"3,392",TRANSPARENTE,ESFERA,erosão baixa,1,nulo,0
+cl1_p12_moca2_deixa4_d0009,"4,201",BRANCO,ESFERA,erosão alta,3,alto,3
+cl1_p12_moca2_deixa4_d0010,"3,577",VERDE,CILINDRO,erosão moderada,2,na,na
+cl1_p12_moca2_deixa4_d0011,"4,075",TRANSPARENTE,CILINDRO,erosão moderada,2,muito alto,4
+cl1_p12_moca2_deixa4_d0012,"3,323",TRANSPARENTE,DISCO,erosão moderada,2,muito alto,4
+cl1_p12_moca2_deixa4_e0007,"2,847",BRANCO,ESFERA,erosão alta,3,alto,3
+cl1_p12_moca2_deixa4_e0008,"3,035",BRANCO,CILINDRO,erosão alta,3,baixo,1
+cl1_p12_moca2_deixa4_e0012,"3,313",TRANSPARENTE,CILINDRO,erosão moderada,2,muito alto,4
+cl1_p12_moca2_deixa4_f0001,"3,025",TRANSPARENTE,CILINDRO,erosão alta,3,baixo,1
+cl1_p12_moca2_deixa4_f0009,"4,203",PRETO,CILINDRO,nulo,0,na,na
+cl1_p13_lagoinha_deixa3_a0001,"4,494",AMARELO,ERODIDO,erosão moderada,2,alto,3
+cl1_p13_lagoinha_deixa3_a0002,"4,406",TRANSPARENTE,LEVEMENTE ERODIDO,erosão baixa,1,nulo,0
+cl1_p13_lagoinha_deixa4_b0003,"4,388",TRANSPARENTE,POUCO ERODIDO,nulo,0,nulo,0
+cl1_p13_lagoinha_deixa4_b0004,"3,548",BRANCO,MUITO ERODIDO,erosão alta,3,moderado,2
+cl1_p13_lagoinha_deixa4_b0005,"3,561",TRANSPARENTE,ERODIDO,erosão moderada,2,baixo,1
+cl1_p14_lagoinha_deixa6_a0004,"5,213",TRANSPARENTE,LEVEMENTE ERODIDO,erosão baixa,1,baixo,1
+cl1_p14_lagoinha_deixa6_a0006,"4,023",TRANSPARENTE,LEVEMENTE ERODIDO,erosão baixa,1,baixo,1
+cl1_p14_lagoinha_deixa6_a0007,"3,827",BRANCO,LEVEMENTE ERODIDO,erosão baixa,1,baixo,1
+cl1_p14_lagoinha_deixa6_a0008,"3,753",TRANSPARENTE,MUITO ERODIDO,erosão alta,3,baixo,1
+cl1_p14_rib_deixa3_d0011,"4,071",TRANSPARENTE,MUITO ERODIDO,erosão baixa,1,baixo,1
+cl1_p14_rib_limsup0_c0011,"4,473",BRANCO,POUCO ERODIDO,nulo,1,alto,3
