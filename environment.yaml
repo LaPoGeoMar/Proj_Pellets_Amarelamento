@@ -10,4 +10,6 @@ dependencies:
   - pandas
   - pillow
   - scikit-image
+  - scikit-learn
   - scipy
+  - seaborn
