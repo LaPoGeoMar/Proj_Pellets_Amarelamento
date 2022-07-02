@@ -3,15 +3,16 @@ from glob import glob
 
 import pandas as pd
 
-df_comp = pd.read_csv('pellets-RGB-classes.csv', index_col = 0)
+df_rgb_blue = pd.read_csv('pellets-RGB-classes-onlyblue.csv', index_col = 0)
+df_rgb_br = pd.read_csv("pellets-RGB-classes-br.csv", index_col = 0)
 df_visual = pd.read_csv('pellets-visual-classes.csv', index_col = 0)
 
 
 fnames = glob("01-masks/*.npy")
 
-comp_index = df_comp.index
+rgb_index = df_rgb_blue.index
 visual_index = df_visual.index
-bad_pellets = comp_index.difference(visual_index)
+bad_pellets = rgb_index.difference(visual_index)
 
 dataset = {}
 for fname in fnames:
@@ -19,14 +20,26 @@ for fname in fnames:
     if pellet in bad_pellets:
         continue
     #get the yellowness class of the pellet for the rotine and for the visual classification
-    class_comp = df_comp.loc[pellet][3]
+    class_blue = df_rgb_blue.loc[pellet][3]
+    class_br = df_rgb_br.loc[pellet][3]
     class_visual = df_visual.loc[pellet][5]
+    
     #compare the yellowness
-    if class_comp == class_visual:
-        dataset.update({pellet: ("Mesma Classe", class_comp)})
+    if class_blue == class_visual and class_br == class_visual:
+        dataset.update({pellet: (class_visual, class_blue, class_br, "Mesma Classe", "Mesma Classe")})
+    elif class_blue == class_visual and class_br != class_visual:
+        dataset.update({pellet: (class_visual, class_blue, class_br, "Mesma Classe", "Classes Diferentes")})
+    elif class_blue != class_visual and class_br == class_visual:
+        dataset.update({pellet: (class_visual, class_blue, class_br, "Classes Diferentes", "Mesma Classe")})
     else:
-        dataset.update({pellet: ("Classes Diferentes", "")})
+        dataset.update({pellet: (class_visual, class_blue, class_br, "Classes Diferentes", "Classes Diferentes")})
 
-df = pd.DataFrame(dataset, index = ("Comparação das Metodologias", "Grau de Amarelamento")).T
+
+df = pd.DataFrame(dataset, index = ("Classificação Visual",                          
+                                    "Classificação RGB - B",
+                                    "Classificação RGB - R/B",
+                                    "Comparação Visual e B",
+                                    "Comparação Visual e R/B"
+                                   )).T
 df.to_csv("comparison_methodologies.csv")
 
