@@ -57,7 +57,22 @@ bad_pellets = [
     "cl1_p12_moca2_deixa4_b0011",
     "cl1_p12_moca2_deixa4_c0007",
     "cl1_p12_moca2_deixa4_b0011",
-    "cl1_p12_moca2_deixa4_c0007"
+    "cl1_p12_moca2_deixa4_c0007",
+    "cl1_p2_joaq_dunaiii_f0011",
+    "cl1_p2_joaq_dunai_d0007",
+    "cl1_p2_joaq_dunai_d0008",
+    "cl1_p2_joaq_dunaiii_f0010",
+    "cl1_p4_brava_deixa3_b0005",
+    "cl1_p4_brava_deixa3_b0006",
+    "cl1_p4_brava_deixa3_c0002",
+    "cl1_p4_brava_deixa5_e0010",
+    "cl1_p5_moca2_deixa3_d0006",
+    "cl1_p9_moca2_deixa5_a0003",
+    "cl1_p9_moca2_deixa5_a0004",
+    "cl1_p12_lagoinha_deixa2_h0002",
+    "cl1_p12_lagoinha_deixa2_h0003",
+    "cl1_p12_moca2_deixa4_d0010",
+    "cl1_p12_moca2_deixa4_f0009"
 ]
 
 for fname in fnames:
